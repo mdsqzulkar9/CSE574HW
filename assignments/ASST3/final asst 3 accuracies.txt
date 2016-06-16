@@ -1,0 +1,120 @@
+
+--------------SVM-------------------
+
+
+linear kernel
+
+ Training Accuracy:97.286%
+
+ Testing Accuracy:93.78%
+
+ Validation Accuracy:93.64%
+
+
+ Radial basis function, gamma = 1
+
+ Training Accuracy:100.0%
+
+ Testing Accuracy:17.14%
+
+ Validation Accuracy:15.48%
+
+
+ Radial basis function, gamma = 0
+
+ Training Accuracy:94.294%
+
+ Testing Accuracy:94.42%
+
+ Validation Accuracy:94.02%
+
+
+ SVM with  different values of C
+
+ C is :
+1.0
+ Training  Accuracy for C : 94.294%
+
+ Testing  Accuracy for C :94.42%
+
+ Validation  Accuracy for C :94.02%
+
+ C is :
+10
+ Training  Accuracy for C : 97.132%
+
+ Testing  Accuracy for C :96.1%
+
+ Validation  Accuracy for C :96.18%
+
+ C is :
+20
+ Training  Accuracy for C : 97.952%
+
+ Testing  Accuracy for C :96.67%
+
+ Validation  Accuracy for C :96.9%
+
+ C is :
+30
+ Training  Accuracy for C : 98.372%
+
+ Testing  Accuracy for C :97.04%
+
+ Validation  Accuracy for C :97.1%
+
+ C is :
+40
+ Training  Accuracy for C : 98.706%
+
+ Testing  Accuracy for C :97.19%
+
+ Validation  Accuracy for C :97.23%
+
+ C is :
+50
+ Training  Accuracy for C : 99.002%
+
+ Testing  Accuracy for C :97.19%
+
+ Validation  Accuracy for C :97.31%
+
+ C is :
+60
+ Training  Accuracy for C : 99.196%
+
+ Testing  Accuracy for C :97.16%
+
+ Validation  Accuracy for C :97.38%
+
+ C is :
+70
+ Training  Accuracy for C : 99.34%
+
+ Testing  Accuracy for C :97.26%
+
+ Validation  Accuracy for C :97.36%
+
+ C is :
+80
+ Training  Accuracy for C : 99.438%
+
+ Testing  Accuracy for C :97.33%
+
+ Validation  Accuracy for C :97.39%
+
+ C is :
+90
+ Training  Accuracy for C : 99.542%
+
+ Testing  Accuracy for C :97.34%
+
+ Validation  Accuracy for C :97.36%
+
+ C is :
+100
+ Training  Accuracy for C : 99.612%
+
+ Testing  Accuracy for C :97.4%
+
+ Validation  Accuracy for C :97.41%
